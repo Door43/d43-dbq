@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dbq:home|Door43 (dbq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dbq|d43-dbq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dbq/archive/master.zip|d43-dbq.zip]]
+
+**Recent Changes**
+{{changes>ns = dbq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dbq|Ethnologue data]]
+
